@@ -5,3 +5,12 @@ the [Getting Started](http://socket.io/get-started/chat/) guide
 of the Socket.IO website.
 
 Please refer to it to learn how to run this application.
+
+# usage
+
+on the command line do
+
+npm install
+node index.js
+
+type localhost:3000 in your browser
